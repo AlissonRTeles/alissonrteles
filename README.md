@@ -33,7 +33,7 @@
 ---
 
 ## 📫 Vamos conversar?  
-- 🌐 Site: [bludot.com.br](https://bludot.com.br)  
+- 🌐 Site: [bludot.com.br](https://www.bludot.com.br)  
 - 📧 E-mail: [alisson.rteles@bludot.com.br](mailto:alisson.rteles@bludot.com.br)  
 - 📱 WhatsApp: [+55 54 98146-3121](https://wa.me/5554981463121)  
 - 💼 LinkedIn: [linkedin.com/in/alissonrteles](https://linkedin.com/in/alissonrteles)  
