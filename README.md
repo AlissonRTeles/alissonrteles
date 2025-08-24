@@ -27,7 +27,7 @@
 ---
 
 ## ✍️ Conteúdo e Reflexões  
-- 📰 Escrevo sobre **tecnologia, inovação e empreendedorismo** no [Medium](https://medium.com/@alisson.rteles).  
+- 📰 Escrevo sobre **tecnologia, inovação e empreendedorismo** no [Medium](https://medium.com/@alisson.teles0).  
 - 📲 Compartilho aprendizados sobre **liderança e posicionamento estratégico** no Instagram da Bludot.  
 
 ---
