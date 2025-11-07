@@ -14,7 +14,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,angular,react,java,php,docker,nginx,aws,azure,git,github,postgres,mysql,oracle" />
+  <img src="https://skillicons.dev/icons?i=nodejs,angular,react,java,php,docker,nginx,aws,azure,git,github,postgres,mysql,oracle,python" />
 </p>
 
 ---
